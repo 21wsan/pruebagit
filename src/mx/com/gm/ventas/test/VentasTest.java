@@ -17,5 +17,7 @@ public class VentasTest {
         orden2.agregarProducto(producto1);
         orden2.agregarProducto(producto3);
         orden2.mostrarOrden();
+        
+        System.out.println("esto es una prueba");
     }
 }
